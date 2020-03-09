@@ -1,0 +1,157 @@
+[
+  {
+    "name": "primary_email",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "contact_type",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "first_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "family_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "organisations",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "emails",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "function_name",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "tags",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "languages",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "medium_types",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "city",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "zip",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "region",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "country",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "phone",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "mobile",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "website",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "twitter",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "facebook",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "instagram",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "linkedin",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "youtube",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "snapchat",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_campaigns",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_opens_total",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_clicks_total",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_undelivered_total",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_unsubscribed_total",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_rate_opened",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_rate_clicked",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "stats_rate_unsubscribed",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
